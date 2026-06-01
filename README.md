@@ -50,6 +50,7 @@
 <br clear="both">
 
 <h3>Github Stats</h3>
+<div align="center">
 
 <div>
   <!-- Profile Summary and Streak -->
@@ -64,6 +65,8 @@
   <!-- Language Stats -->
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sundae-hue&theme=dracula" width="340px" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sundae-hue&theme=dracula" width="340px" />
+</div>
+
 </div>
 
 
