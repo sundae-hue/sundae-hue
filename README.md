@@ -2,13 +2,13 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sundae-hue.sundae-hue&"  />
 </div>
 
-###
+
 
 <br clear="both">
 
 <h2 align="center">࣪⠀ೀ  Hello, I'm Sandra!  ྀི  𐂯ᩙ᩠𓏼</h2>
 
-###
+
 
 <br clear="both">
 
@@ -16,11 +16,11 @@
   <img height="350" src="https://i.pinimg.com/originals/47/86/39/478639f262dc78426221896fd705bb5d.gif"  />
 </div>
 
-###
+
 
 <p align="center">Socials:</p>
 
-###
+
 
 <br clear="both">
 
@@ -39,13 +39,13 @@
   </a>
 </div>
 
-###
+
 
 <br clear="both">
 
 <p align="center">Github Stats</p>
 
-###
+
 
 <br clear="both">
 
@@ -55,11 +55,11 @@
   <img src="https://raw.githubusercontent.com/sundae-hue/sundae-hue/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
-###
+
 
 <p align="center">Language</p>
 
-###
+
 
 <br clear="both">
 
@@ -71,11 +71,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
 </div>
 
-###
+
 
 <p align="center">Tools & Testing</p>
 
-###
+
 
 <br clear="both">
 
@@ -89,12 +89,10 @@
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
 </div>
 
-###
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sundae-hue/sundae-hue/pacman-output/galaga-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sundae-hue/sundae-hue/pacman-output/galaga-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sundae-hue/sundae-hue/pacman-output/galaga-contribution-graph.svg">
 </picture>
-
-###
