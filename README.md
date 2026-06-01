@@ -49,7 +49,7 @@
 
 <br clear="both">
 
-<h3>Github Stats</h3>
+<h3 align="center">Github Stats</h3>
 <div align="center">
 
 <div>
