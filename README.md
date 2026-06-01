@@ -43,9 +43,6 @@
 
 <br clear="both">
 
-<p align="center">Github Stats</p>
-
-
 
 <br clear="both">
 
