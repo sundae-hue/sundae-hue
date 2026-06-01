@@ -13,7 +13,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="287" src="https://i.pinimg.com/originals/47/86/39/478639f262dc78426221896fd705bb5d.gif"  />
+  <img height="350" src="https://i.pinimg.com/originals/47/86/39/478639f262dc78426221896fd705bb5d.gif"  />
 </div>
 
 ###
@@ -34,6 +34,9 @@
   <a href="https://www.facebook.com/sandra.glodo.50" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
+  <a href="https://www.instagram.com/_saannnnnnd/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
@@ -44,14 +47,17 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
+  <img src="https://raw.githubusercontent.com/sundae-hue/sundae-hue/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
   <img src="https://raw.githubusercontent.com/sundae-hue/sundae-hue/stats-output/stats.svg" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/sundae-hue/sundae-hue/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<p align="center">Languages</p>
+<p align="center">Language</p>
 
 ###
 
@@ -74,21 +80,21 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
 </div>
 
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sundae-hue/sundae-hue/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sundae-hue/sundae-hue/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sundae-hue/sundae-hue/pacman-output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sundae-hue/sundae-hue/pacman-output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sundae-hue/sundae-hue/pacman-output/galaga-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sundae-hue/sundae-hue/pacman-output/galaga-contribution-graph.svg">
 </picture>
 
 ###
