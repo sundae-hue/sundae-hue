@@ -18,7 +18,7 @@
 
 
 
-<p align="center">Socials:</p>
+<h3 align="center">Socials:</h3>
 
 
 
@@ -68,7 +68,7 @@
 
 
 
-<p align="center">Language</p>
+<h3 align="center">Language</h3>
 
 
 
@@ -84,7 +84,7 @@
 
 
 
-<p align="center">Tools & Testing</p>
+<h3 align="center">Tools & Testing</h3>
 
 
 
