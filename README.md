@@ -51,7 +51,7 @@
 
 ###
 
-<p align="center">Language</p>
+<p align="center">Languages</p>
 
 ###
 
