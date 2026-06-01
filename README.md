@@ -49,10 +49,21 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sundae-hue/sundae-hue/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
-  <img src="https://raw.githubusercontent.com/sundae-hue/sundae-hue/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/sundae-hue/sundae-hue/languages-output/languages.svg" height="150" alt="languages graph"  />
+<h3>Github Stats</h3>
+
+<div>
+  <!-- Profile Summary and Streak -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sundae-hue&theme=dracula" width="680px" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=sundae-hue&theme=dracula&hide_border=true" width="680px" />
+</div>
+
+<br/>
+
+<div>
+  <!-- Language Stats -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sundae-hue&theme=dracula" width="340px" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sundae-hue&theme=dracula" width="340px" />
 </div>
 
 
